@@ -19,7 +19,8 @@
 
 &lt;h1 id=&#34;hello-world&#34;&gt;Hello, world !&lt;/h1&gt;
 
-&lt;p&gt;A beautiful day, isn&amp;rsquo;t it ?&lt;/p&gt;
+&lt;p&gt;A beautiful day, isn&amp;rsquo;t it ?
+&lt;img src=&#34;http://aurelien-herve.com/vaillante-pousse/images/hello.jpeg&#34; alt=&#34;hello&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
