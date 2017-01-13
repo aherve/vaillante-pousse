@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vaillante Pousse</title>
+    <link>https://aurelien-herve.com/vaillante-pousse/index.xml</link>
+    <description>Recent content on Vaillante Pousse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 13 Jan 2017 15:14:35 +0400</lastBuildDate>
+    <atom:link href="https://aurelien-herve.com/vaillante-pousse/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello</title>
+      <link>https://aurelien-herve.com/vaillante-pousse/post/hello/</link>
+      <pubDate>Fri, 13 Jan 2017 15:14:35 +0400</pubDate>
+      
+      <guid>https://aurelien-herve.com/vaillante-pousse/post/hello/</guid>
+      <description>
+
+&lt;h1 id=&#34;hello-world&#34;&gt;Hello, world !&lt;/h1&gt;
+
+&lt;p&gt;A beautiful day, isn&amp;rsquo;t it ?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
